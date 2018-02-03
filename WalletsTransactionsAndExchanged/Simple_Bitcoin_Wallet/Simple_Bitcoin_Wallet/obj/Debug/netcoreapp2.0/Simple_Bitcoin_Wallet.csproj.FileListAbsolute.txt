@@ -1,0 +1,11 @@
+D:\BlockchainDev\Blockchain-Dev-Camp---Sofia---February-2018\WalletsTransactionsAndExchanged\Simple_Bitcoin_Wallet\Simple_Bitcoin_Wallet\bin\Debug\netcoreapp2.0\Simple_Bitcoin_Wallet.deps.json
+D:\BlockchainDev\Blockchain-Dev-Camp---Sofia---February-2018\WalletsTransactionsAndExchanged\Simple_Bitcoin_Wallet\Simple_Bitcoin_Wallet\bin\Debug\netcoreapp2.0\Simple_Bitcoin_Wallet.runtimeconfig.json
+D:\BlockchainDev\Blockchain-Dev-Camp---Sofia---February-2018\WalletsTransactionsAndExchanged\Simple_Bitcoin_Wallet\Simple_Bitcoin_Wallet\bin\Debug\netcoreapp2.0\Simple_Bitcoin_Wallet.runtimeconfig.dev.json
+D:\BlockchainDev\Blockchain-Dev-Camp---Sofia---February-2018\WalletsTransactionsAndExchanged\Simple_Bitcoin_Wallet\Simple_Bitcoin_Wallet\bin\Debug\netcoreapp2.0\Simple_Bitcoin_Wallet.dll
+D:\BlockchainDev\Blockchain-Dev-Camp---Sofia---February-2018\WalletsTransactionsAndExchanged\Simple_Bitcoin_Wallet\Simple_Bitcoin_Wallet\obj\Debug\netcoreapp2.0\Simple_Bitcoin_Wallet.csprojResolveAssemblyReference.cache
+D:\BlockchainDev\Blockchain-Dev-Camp---Sofia---February-2018\WalletsTransactionsAndExchanged\Simple_Bitcoin_Wallet\Simple_Bitcoin_Wallet\obj\Debug\netcoreapp2.0\Simple_Bitcoin_Wallet.csproj.CoreCompileInputs.cache
+D:\BlockchainDev\Blockchain-Dev-Camp---Sofia---February-2018\WalletsTransactionsAndExchanged\Simple_Bitcoin_Wallet\Simple_Bitcoin_Wallet\obj\Debug\netcoreapp2.0\Simple_Bitcoin_Wallet.AssemblyInfoInputs.cache
+D:\BlockchainDev\Blockchain-Dev-Camp---Sofia---February-2018\WalletsTransactionsAndExchanged\Simple_Bitcoin_Wallet\Simple_Bitcoin_Wallet\obj\Debug\netcoreapp2.0\Simple_Bitcoin_Wallet.AssemblyInfo.cs
+D:\BlockchainDev\Blockchain-Dev-Camp---Sofia---February-2018\WalletsTransactionsAndExchanged\Simple_Bitcoin_Wallet\Simple_Bitcoin_Wallet\bin\Debug\netcoreapp2.0\Simple_Bitcoin_Wallet.pdb
+D:\BlockchainDev\Blockchain-Dev-Camp---Sofia---February-2018\WalletsTransactionsAndExchanged\Simple_Bitcoin_Wallet\Simple_Bitcoin_Wallet\obj\Debug\netcoreapp2.0\Simple_Bitcoin_Wallet.dll
+D:\BlockchainDev\Blockchain-Dev-Camp---Sofia---February-2018\WalletsTransactionsAndExchanged\Simple_Bitcoin_Wallet\Simple_Bitcoin_Wallet\obj\Debug\netcoreapp2.0\Simple_Bitcoin_Wallet.pdb
