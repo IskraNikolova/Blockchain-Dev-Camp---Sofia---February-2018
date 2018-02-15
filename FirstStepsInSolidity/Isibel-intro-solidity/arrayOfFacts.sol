@@ -1,12 +1,11 @@
 pragma solidity ^0.4.18;
 
 
-
 contract ArrayOfFacts{
     
-        string[] private facts;
+    string[] private facts;
     
-        address private contractOwner = msg.sender;
+    address private contractOwner = msg.sender;
 
 
     
@@ -27,10 +26,10 @@ contract ArrayOfFacts{
 
 
    
-    	function getFact(uint index) view public returns(string fact){
-       		fact = facts[index];
+    function getFact(uint index) view public returns(string fact){
+       	fact = facts[index];
 
-       		return;
+      	return;
     
  	}
 
